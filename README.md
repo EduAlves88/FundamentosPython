@@ -1,3 +1,4 @@
 # FundamentosPython
 
-Avanço do ensino de pyuthon com Jupyter Notebook
+Avanço do ensino de python com Jupyter Notebook
+para manipulação de dados
